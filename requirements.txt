@@ -1,0 +1,3 @@
+pandas for manipulating csv file
+scikit-learn for model training
+jupyter notebook 

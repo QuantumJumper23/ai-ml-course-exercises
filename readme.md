@@ -1,0 +1,2 @@
+This project uses the Titanic dataset to predict survival using a **Gaussian Naive Bayes classifier**, which is an extension of **Naive Bayes** designed for **continuous data** such as Age and Fare.
+[view the math behind the algorithm](math.md)
